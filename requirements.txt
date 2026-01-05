@@ -9,3 +9,5 @@ auth_login
 datetime
 requests
 flask
+streamlit
+
