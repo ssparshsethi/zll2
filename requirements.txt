@@ -9,5 +9,6 @@ auth_login
 datetime
 requests
 flask
-streamlit
+gunicorn
+procfile
 
